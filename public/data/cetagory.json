@@ -1,0 +1,28 @@
+[
+    {
+      "icon": "https://example.com/icons/developer.png",
+      "job_category": "Software Developer",
+      "available_job": "25+ Jobs"
+    },
+    {
+      "icon": "https://example.com/icons/designer.png",
+      "job_category": "Graphic Designer",
+      "available_job": "15+ Jobs"
+    },
+    {
+      "icon": "https://example.com/icons/teacher.png",
+      "job_category": "Teacher",
+      "available_job":"10+ Jobs"
+    },
+    {
+      "icon": "https://example.com/icons/engineer.png",
+      "job_category": "Civil Engineer",
+      "available_job": "8+ Jobs"
+    },
+    {
+      "icon": "https://example.com/icons/nurse.png",
+      "job_category": "Nurse",
+      "available_job": "12+ Jobs"
+    }
+  ]
+  
