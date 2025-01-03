@@ -18,9 +18,9 @@ const App = () => {
   return (
     <>
       <Router>
-        <div className=" flex-col flex justify-between items-center mt-6 mr-[2rem] ml-[2rem]">
+        <div className=" flex-col flex justify-between items-center mt-6 mr-[3rem] ml-[3rem]">
           <header className="flex  justify-between gap-8  lg:w-full text-white">
-            <div className="logo font-mono text-3xl ">Soriful JOBS</div>
+            <div className="logo font-mono text-3xl ">JOBS</div>
             <nav className="flex flex-row-reverse">
               <div className="text-2xl cursor-pointer hidden max-md:inline">
                 <button onClick={handleBtn}>

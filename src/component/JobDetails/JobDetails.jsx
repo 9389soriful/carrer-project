@@ -17,7 +17,7 @@ const JobDetails = () => {
     
   }
   return (
-    <div className="cursor-alias flex flex-col justify-around items-center mt-8 mb-8 gap-8 bg-slate-950 p-8 rounded-lg">
+    <div className=" border-t px-10 py-4 cursor-alias flex flex-col justify-around items-center mt-8 mb-8 w-full gap-8 bg-slate-950 p-8 rounded-lg ">
       <h1 className="text-3xl font-serif"> Job Details</h1>
       <div className="flex items-center max-md:flex-col gap-8">
         <section className="flex flex-col gap-2">
